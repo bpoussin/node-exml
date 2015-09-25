@@ -1,6 +1,8 @@
-# exml
+# exml-easysax
 
-The **exml** [node](http://nodejs.org/) module provides an intuitive event based XML parsing API which sits on top of a standard SAX parser, greatly simplifying the parsing code while retaining the raw speed and low memory overhead of the underlying SAX engine. The module takes care of the complex tasks of maintaining contexts between SAX event handlers allowing you to concentrate on dealing with the actual structure of the XML document.
+The **exml-easysax** is fork of [exml](https://github.com/lucsky/node-exml) to use [easysax](https://github.com/vflash/easysax) as parser for performance.
+
+ The **exml** [node](http://nodejs.org/) module provides an intuitive event based XML parsing API which sits on top of a standard SAX parser, greatly simplifying the parsing code while retaining the raw speed and low memory overhead of the underlying SAX engine. The module takes care of the complex tasks of maintaining contexts between SAX event handlers allowing you to concentrate on dealing with the actual structure of the XML document.
 
 # Installation
 
