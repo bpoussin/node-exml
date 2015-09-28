@@ -1,6 +1,6 @@
 {
     "name":         "exml-easysax",
-    "version":      "0.3.1",
+    "version":      "0.3.2",
     "description":  "An event based XML parsing library using SAX under the hood for speed and efficiency.",
     "keywords":     ["xml", "events"],
     "author":       "Luc Heinrich <luc@honk-honk.com>, Poussin Benjamin <poussin@codelutin.com>",
@@ -13,6 +13,6 @@
 
     "main": "./lib/exml-easysax.js",
     "dependencies": {
-        "easysax": "0.1.x"
+        "easysax": "git+https://github.com/bpoussin/easysax.git"
     }
 }
