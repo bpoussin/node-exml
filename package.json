@@ -3,7 +3,13 @@
     "version":      "0.3.2",
     "description":  "An event based XML parsing library using SAX under the hood for speed and efficiency.",
     "keywords":     ["xml", "events"],
-    "author":       "Luc Heinrich <luc@honk-honk.com>, Poussin Benjamin <poussin@codelutin.com>",
+    "author":       "Luc Heinrich <luc@honk-honk.com>",
+    "contributors":[{
+		"name": "Benjamin POUSSIN",
+		"email": "poussin@codelutin.com",
+		"url": "http://www.codelutin.com"
+    }],
+
     "license":      "BSD",
 
     "repository": {
@@ -13,6 +19,6 @@
 
     "main": "./lib/exml-easysax.js",
     "dependencies": {
-        "easysax": "git+https://github.com/bpoussin/easysax.git"
+        "easysax": "bpoussin/easysax#v0.1.13.1"
     }
 }
