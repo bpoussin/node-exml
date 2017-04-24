@@ -1,6 +1,6 @@
 {
     "name":         "exml-easysax",
-    "version":      "0.3.2",
+    "version":      "0.3.3",
     "description":  "An event based XML parsing library using SAX under the hood for speed and efficiency.",
     "keywords":     ["xml", "events"],
     "author":       "Luc Heinrich <luc@honk-honk.com>",
