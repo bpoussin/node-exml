@@ -19,6 +19,6 @@
 
     "main": "./lib/exml-easysax.js",
     "dependencies": {
-        "easysax": "bpoussin/easysax#v0.1.13.1"
+        "easysax": "bpoussin/easysax#v0.1.14"
     }
 }
